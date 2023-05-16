@@ -2,3 +2,7 @@
 Repositório com laboratórios e projetos da Formação Engenheiro de Dados DSA.
 
 Link para mais informações: https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados
+
+![Texto alternativo](imgs\trilha_aprendizagem.jpeg)
+
+
